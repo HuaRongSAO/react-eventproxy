@@ -1,0 +1,17 @@
+{
+  "name": "react-eventproxy",
+  "version": "1.1.0",
+  "description": "用于react组件之间的信息交互",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raact",
+    "react组件之间",
+    "信息交互",
+    "react组件之间信息交互"
+  ],
+  "author": "",
+  "license": "ISC"
+}
