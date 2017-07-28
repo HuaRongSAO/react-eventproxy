@@ -1,3 +1,9 @@
+#### how to install
+
+```
+npm i react-eventproxy
+```
+
 #### function api
 
 eventProxy 中总共有 on、one、off、trigger 这 4 个函数：  
